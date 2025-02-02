@@ -31,3 +31,4 @@ Frontend (React.js + TypeScript)
     React Router - For navigation
     Axios - For making API calls
     Tailwind CSS - For styling
+NOTE: There is no .env file in this project.
