@@ -1,4 +1,4 @@
-# Excel-Data-Importer-Assignment
+# Excel-Data-Importer
 Project Name: Excel Data Importer
 Overview:
 This project is a full-stack application built with Node.js, Express, TypeScript, MongoDB (Mongoose), and React.js.
